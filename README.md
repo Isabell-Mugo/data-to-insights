@@ -17,7 +17,7 @@ I specialize in turning raw data into insights that drive efficiency, revenue, a
 ### 🚴‍♂️ Featured Project: Divvy Bikes Analysis
 **Goal:** Analyze 5.5M+ rows of data to design a marketing strategy that converts casual riders into annual members.
 
-![Divvy Bike Dashboard](divvy_dashboard.png)
+![Divvy Bike Dashboard](https://github.com/Isabell-Mugo/data-to-insights/blob/main/divvy_dashboard.png?raw=true)
 
 ### 🛠️ The Technical Workflow
 Instead of manual cleaning, I built a scalable **ETL pipeline** directly in Power BI to handle the massive dataset efficiently.
