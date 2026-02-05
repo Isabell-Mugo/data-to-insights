@@ -1,5 +1,5 @@
 # data-to-insights
-# 👋 Hi, I'm [Isabell Mugo]
+# 👋 Hi, I'm Isabell Mugo
 ### **Data Analyst | Business Intelligence Specialist**
 
 I specialize in turning raw data into insights that drive efficiency, revenue, and better decision-making. From writing optimized SQL queries to building automated Power BI dashboards, I focus on solutions that scale and deliver real business value.
@@ -18,7 +18,7 @@ I specialize in turning raw data into insights that drive efficiency, revenue, a
 ### 🚴‍♂️ Featured Project: Divvy Bikes Analysis
 **Goal:** Analyze 5.5M+ rows of data to design a marketing strategy that converts casual riders into annual members.
 
-![image alt](https://github.com/Isabell-Mugo/data-to-insights/blob/0387d3d9255e3418d250e74a36a8c96a84ee30ce/Divvy%20Bike%20Dashboard.png)
+![Divvy Bike Dashboard](Divvy%20Bike%20Dashboard.png)
 
 ### 🛠️ The Technical Workflow
 Instead of manual cleaning, I built a scalable **ETL pipeline** directly in Power BI to handle the massive dataset efficiently.
