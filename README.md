@@ -22,4 +22,6 @@ I am currently analyzing 5M+ rows of Chicago bike-share data to identify behavio
 
 ---
 
-📫 **Connect with me:** [[https://www.linkedin.com/in/wacera-mugo-15b30a94/]] | [mugwacera@gmail.com]
+### 📫 Connect with me:
+🤝 **LinkedIn:** [linkedin.com/in/wacera_mugo-15b30a94](https://www.linkedin.com/in/wacera-mugo-15b30a94/)  
+📧 **Email:** [mugwacera@gmail.com](mailto:mugwacera@gmail.com)
