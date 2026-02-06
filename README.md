@@ -27,7 +27,7 @@ Instead of manual cleaning, I built a scalable **ETL pipeline** directly in Powe
     * **Feature Engineering:** Created custom columns for `ride_length` and `day_of_week` to enable behavioral segmentation analysis.
 * **Data Modeling (DAX):**
     * Developed measures for **Average Trip Duration** and **Total Trips** with dynamic filtering by user type (Member vs. Casual).
-    * Built time-intelligence calculations to compare seasonal performance YoY, revealing a 34% decline in casual ridership during winter months.
+    * Built time-intelligence calculations to compare seasonal performance MoM, revealing a 34% decline in casual ridership during winter months.
 
 ---
 
